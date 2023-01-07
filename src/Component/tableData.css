@@ -1,0 +1,17 @@
+.TableDataEven {
+  background-color: rgb(238, 233, 233);
+}
+.profile-img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-right: 15px;
+  object-fit: cover;
+  object-position: center right;
+}
+.deleteIcon {
+  cursor: pointer;
+}
+.table-button:hover {
+  background-color: rgb(226, 211, 211);
+}
